@@ -1,0 +1,135 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.App {
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 100%;
+}
+
+@media (max-width: 500px) {
+  .App {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 500px) {
+  .App {
+    max-width: 500px;
+  }
+}
+
+.container {
+  position: relative;
+  padding-top: 45px;
+}
+
+.header {
+  font-size: 20px;
+  margin: 5px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.search-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 5px 3px;
+  height: 40px;
+}
+
+.search-bar input {
+  line-height: 40px;
+  height: 40px;
+  width: 100%;
+  display: block;
+  border: 2px solid #f0f0f0;
+  border-radius: 4px;
+  font-size: 20px;
+  padding-left: 8px;
+}
+
+.food-list {
+  list-style: none;
+  padding: 3px;
+  margin: 0;
+}
+
+.food-list-item {
+  margin-top: 1px;
+}
+
+.compliant .tab {
+  background-color: #CEEBCC;
+}
+
+.non-compliant .tab {
+  background-color: #FDEDEC;
+}
+
+.warn .tab {
+  background-color: #FFF4BA;
+}
+
+.tab {
+  padding: 2px 10px 2px 5px;
+  display: flex;
+  align-items: center;
+}
+
+.expandable .tab:hover {
+  cursor: pointer;
+  opacity: .8;
+}
+
+.tab-name {
+  flex: 1;
+}
+
+.tab-icon {
+  /* font-size: 16px;
+  max-width: 50%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #aaa; */
+  color: #777;
+  font-size: 14px;
+}
+
+.expand {
+  border: 1px solid #eee;
+  border-top: 0;
+  border-radius: 0 0 4px 4px;
+  padding: 10px 5px;
+}
+
+.expand p {
+  margin: 0;
+}
+
+.food-list-item .expand {
+  display: none;
+}
+
+.food-list-item.active .expand {
+  display: block;
+}
