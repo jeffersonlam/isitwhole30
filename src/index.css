@@ -37,7 +37,6 @@ body {
 
 .container {
   position: relative;
-  padding-top: 45px;
 }
 
 .header {
@@ -48,12 +47,11 @@ body {
 }
 
 .search-bar {
-  position: absolute;
+  position: sticky;
   top: 0;
   left: 0;
   right: 0;
-  padding: 5px 3px;
-  height: 40px;
+  padding: 0px 3px;
 }
 
 .search-bar input {
