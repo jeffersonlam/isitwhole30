@@ -12,7 +12,8 @@ class App extends Component {
 
     this.state = {
       data: DATA,
-      results: DATA
+      results: DATA,
+      navOpen: false
     }
   }
 
@@ -22,11 +23,15 @@ class App extends Component {
     this.setState({ results });
   }
 
+  toggleNav(e) {
+    this.setState({navOpen: !this.state.navOpen});
+  }
+
   render() {
     return (
       <div className="App">
         <Nav />
-        <Header />
+        <Header toggleNav={e => this.toggleNav(e)} navOpen={this.state.navOpen} />
         <div className="container">
           <SearchBar foodSearch={e => this.foodSearch(e)} />
           <FoodList foods={this.state.results} />

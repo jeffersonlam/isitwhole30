@@ -1,20 +1,38 @@
+$bar-spacing: 8px;
+
 .NavIcon {
   position: absolute;
   top: 12px;
   right: 12px;
 
   width: 25px;
+  height: 25px;
 
   div {
+    position: absolute;
+
     width: 100%;
     height: 3px;
-    margin-bottom: 5px;
+
+    transition: transform .1s 0s ease-in-out, top .1s .1s ease-in-out;
 
     border-radius: 1px;
     background-color: #333;
 
+    &:first-child {
+      top: 0;
+    }
+
+    &:nth-child(2) {
+      top: $bar-spacing;
+
+      transition: opacity 0s .15s linear;
+
+      opacity: 1;
+    }
+
     &:last-child {
-      margin: 0;
+      top: $bar-spacing * 2;
     }
   }
 
@@ -22,5 +40,27 @@
     cursor: pointer;
 
     opacity: .6;
+  }
+
+  &.active {
+    div {
+      transition: transform .1s .1s ease-in-out, top .1s 0s ease-in-out;
+
+      &:first-child {
+        top: $bar-spacing;
+
+        transform: rotate(45deg);
+      }
+
+      &:nth-child(2) {
+        opacity: 0;
+      }
+
+      &:last-child {
+        top: $bar-spacing;
+
+        transform: rotate(-45deg);
+      }
+    }
   }
 }
