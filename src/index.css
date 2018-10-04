@@ -67,6 +67,7 @@ body {
   padding: 3px;
   margin: 0;
   overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
 }
 
 .food-list-item {
