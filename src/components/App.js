@@ -32,10 +32,8 @@ class App extends Component {
       <div className="App">
         <Nav />
         <Header toggleNav={e => this.toggleNav(e)} navOpen={this.state.navOpen} />
-        <div className="container">
-          <SearchBar foodSearch={e => this.foodSearch(e)} />
-          <FoodList foods={this.state.results} />
-        </div>
+        <SearchBar foodSearch={e => this.foodSearch(e)} />
+        <FoodList foods={this.state.results} />
       </div>
     );
   }

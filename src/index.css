@@ -40,7 +40,7 @@ body {
 }
 
 .container {
-  position: relative;
+  /* position: relative; */
 }
 
 .search-bar {
@@ -66,6 +66,7 @@ body {
   list-style: none;
   padding: 3px;
   margin: 0;
+  overflow-y: scroll;
 }
 
 .food-list-item {
