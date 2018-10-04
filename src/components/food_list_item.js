@@ -18,7 +18,7 @@ class FoodListItem extends Component {
   render() {
     const { food } = this.props;
     const { compliant, warn } = food;
-    const expandable = food.info.length > 0;
+    const expandable = food.info != null;
     let tabIcon = '';
     if (expandable) {
       tabIcon = this.state.active ? '▲' : '▼';
