@@ -3,6 +3,8 @@ import DATA from '../data.json';
 
 import SearchBar from './search_bar';
 import FoodList from './food_list';
+import Header from './header';
+import Nav from './nav';
 
 class App extends Component {
   constructor(props) {
@@ -23,7 +25,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1 className="header">Whole30 Compliance</h1>
+        <Nav />
+        <Header />
         <div className="container">
           <SearchBar foodSearch={e => this.foodSearch(e)} />
           <FoodList foods={this.state.results} />
