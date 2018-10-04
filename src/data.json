@@ -306,6 +306,18 @@
     "info": null
   },
   {
+    "name": "tricalcium phosphate",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "dipotassium phosphate",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
     "name": "(evaporated) cane juice",
     "compliant": false,
     "warn": false,
