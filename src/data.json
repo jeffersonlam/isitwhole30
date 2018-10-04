@@ -1,1 +1,872 @@
-[{"name":"(evaporated) cane juice","compliant":false,"warn":false,"info":""},{"name":"(sweet) sorghum","compliant":false,"warn":false,"info":""},{"name":"absorbic acid (vitamin C)","compliant":true,"warn":false,"info":""},{"name":"acacia","compliant":true,"warn":false,"info":""},{"name":"acacia gum","compliant":true,"warn":false,"info":""},{"name":"acesulfame-K","compliant":false,"warn":false,"info":""},{"name":"acetic acid","compliant":true,"warn":false,"info":""},{"name":"added sugar","compliant":false,"warn":false,"info":""},{"name":"added sulfites","compliant":false,"warn":false,"info":""},{"name":"agave inulin","compliant":true,"warn":false,"info":""},{"name":"agave nectar","compliant":false,"warn":false,"info":""},{"name":"alcohol","compliant":false,"warn":false,"info":""},{"name":"alpha tocopherol (vitamin E)","compliant":true,"warn":false,"info":""},{"name":"apples","compliant":true,"warn":false,"info":""},{"name":"arabitol","compliant":false,"warn":false,"info":""},{"name":"artificial sweeteners","compliant":false,"warn":false,"info":""},{"name":"aspartame","compliant":false,"warn":false,"info":""},{"name":"bananas","compliant":true,"warn":false,"info":""},{"name":"beef","compliant":true,"warn":false,"info":""},{"name":"beer","compliant":false,"warn":false,"info":""},{"name":"beet sugar","compliant":false,"warn":false,"info":""},{"name":"beta-carotene","compliant":true,"warn":false,"info":""},{"name":"bread","compliant":false,"warn":false,"info":""},{"name":"brown sugar","compliant":false,"warn":false,"info":""},{"name":"butternut squash noodles","compliant":true,"warn":false,"info":""},{"name":"calcium carbonate","compliant":true,"warn":false,"info":""},{"name":"calcium chloride","compliant":true,"warn":false,"info":""},{"name":"cane sugar","compliant":false,"warn":false,"info":""},{"name":"carrageenan","compliant":false,"warn":false,"info":""},{"name":"chicken","compliant":true,"warn":false,"info":""},{"name":"citric acid, sodium citrate","compliant":true,"warn":false,"info":""},{"name":"coconut nectar","compliant":false,"warn":false,"info":""},{"name":"coconut sugar","compliant":false,"warn":false,"info":""},{"name":"coffee","compliant":true,"warn":false,"info":""},{"name":"confectioner's sugar","compliant":false,"warn":false,"info":""},{"name":"corn","compliant":false,"warn":false,"info":""},{"name":"corn starch","compliant":false,"warn":false,"info":""},{"name":"dairy","compliant":false,"warn":false,"info":""},{"name":"date sugar","compliant":false,"warn":false,"info":""},{"name":"date syrup","compliant":false,"warn":false,"info":""},{"name":"dextrose","compliant":false,"warn":false,"info":""},{"name":"disaccharide","compliant":false,"warn":false,"info":""},{"name":"dulcitol","compliant":false,"warn":false,"info":""},{"name":"eggs","compliant":true,"warn":false,"info":"You may optionally exclude eggs on your Whole30."},{"name":"equal","compliant":false,"warn":false,"info":""},{"name":"erythritol","compliant":false,"warn":false,"info":""},{"name":"ferrous gluconate","compliant":true,"warn":false,"info":""},{"name":"fish","compliant":true,"warn":false,"info":""},{"name":"french fries","compliant":false,"warn":false,"info":""},{"name":"fructose","compliant":false,"warn":false,"info":""},{"name":"fruit","compliant":true,"warn":false,"info":""},{"name":"fruit juice","compliant":true,"warn":true,"info":"Fruit juice as an additive is ok, but avoid drinking fruit juice as a beverage."},{"name":"galactose","compliant":false,"warn":false,"info":""},{"name":"gellan gum","compliant":true,"warn":false,"info":""},{"name":"glucose","compliant":false,"warn":false,"info":""},{"name":"gluten","compliant":false,"warn":false,"info":""},{"name":"glycerin (glycerol)","compliant":false,"warn":false,"info":""},{"name":"glycol","compliant":false,"warn":false,"info":""},{"name":"grains","compliant":false,"warn":false,"info":""},{"name":"guar gum","compliant":true,"warn":false,"info":""},{"name":"high fructose corn syrup","compliant":false,"warn":false,"info":""},{"name":"honey","compliant":false,"warn":false,"info":""},{"name":"HSH","compliant":false,"warn":false,"info":""},{"name":"iditol","compliant":false,"warn":false,"info":""},{"name":"instant ramen","compliant":false,"warn":false,"info":""},{"name":"inulin","compliant":true,"warn":false,"info":""},{"name":"isomalt","compliant":false,"warn":false,"info":""},{"name":"lactic acid","compliant":true,"warn":false,"info":""},{"name":"lactitol","compliant":false,"warn":false,"info":""},{"name":"lactose","compliant":false,"warn":false,"info":""},{"name":"legumes","compliant":false,"warn":false,"info":""},{"name":"locust bean gum","compliant":true,"warn":false,"info":""},{"name":"malt syrup","compliant":false,"warn":false,"info":""},{"name":"maltitol","compliant":false,"warn":false,"info":""},{"name":"maltose","compliant":false,"warn":false,"info":""},{"name":"mannitol","compliant":false,"warn":false,"info":""},{"name":"maple syrup","compliant":false,"warn":false,"info":""},{"name":"meat","compliant":true,"warn":false,"info":""},{"name":"milk","compliant":false,"warn":false,"info":""},{"name":"molasses","compliant":false,"warn":false,"info":""},{"name":"monk fruit extract","compliant":false,"warn":false,"info":""},{"name":"monosaccharide","compliant":false,"warn":false,"info":""},{"name":"monosodium glutamate (MSG)","compliant":false,"warn":false,"info":""},{"name":"natural flavors","compliant":true,"warn":false,"info":""},{"name":"naturally occuring sulfites","compliant":true,"warn":false,"info":""},{"name":"niacin (vitamin B3)","compliant":true,"warn":false,"info":""},{"name":"noodles","compliant":false,"warn":false,"info":""},{"name":"nutra-sweet","compliant":false,"warn":false,"info":""},{"name":"pasta","compliant":false,"warn":false,"info":""},{"name":"pasta noodles","compliant":false,"warn":false,"info":""},{"name":"peanuts","compliant":false,"warn":false,"info":""},{"name":"pectin (sodium pectinate)","compliant":true,"warn":false,"info":""},{"name":"polyglycitol","compliant":false,"warn":false,"info":""},{"name":"polysaccharide","compliant":false,"warn":false,"info":""},{"name":"pork","compliant":true,"warn":false,"info":""},{"name":"potassium chloride","compliant":true,"warn":false,"info":""},{"name":"potassium metabisulfite","compliant":false,"warn":false,"info":""},{"name":"potato chips","compliant":false,"warn":false,"info":""},{"name":"potato starch","compliant":true,"warn":false,"info":""},{"name":"raw sugar","compliant":false,"warn":false,"info":""},{"name":"refiner's syrup","compliant":false,"warn":false,"info":""},{"name":"ribitol","compliant":false,"warn":false,"info":""},{"name":"riboflavin (vitamin B2)","compliant":true,"warn":false,"info":""},{"name":"ribose","compliant":false,"warn":false,"info":""},{"name":"rice malt (extract)","compliant":false,"warn":false,"info":""},{"name":"rice syrup","compliant":false,"warn":false,"info":""},{"name":"saccharin","compliant":false,"warn":false,"info":""},{"name":"saccharose","compliant":false,"warn":false,"info":""},{"name":"salt (sodium chloride)","compliant":true,"warn":false,"info":""},{"name":"sodium bisulfite","compliant":false,"warn":false,"info":""},{"name":"sodium nitrate","compliant":true,"warn":false,"info":""},{"name":"sodium nitrite","compliant":true,"warn":false,"info":""},{"name":"sorbitol","compliant":false,"warn":false,"info":""},{"name":"soy","compliant":false,"warn":false,"info":""},{"name":"soy lecithin","compliant":false,"warn":false,"info":""},{"name":"spaghetti noodles","compliant":false,"warn":false,"info":""},{"name":"spaghetti sauce","compliant":true,"warn":true,"info":"Check your labels for non-compliant additives."},{"name":"spaghetti squash","compliant":true,"warn":false,"info":""},{"name":"sparkling water","compliant":true,"warn":false,"info":""},{"name":"spinach","compliant":true,"warn":false,"info":""},{"name":"splenda","compliant":false,"warn":false,"info":""},{"name":"stevia","compliant":false,"warn":false,"info":""},{"name":"sucralose","compliant":false,"warn":false,"info":""},{"name":"sucrose","compliant":false,"warn":false,"info":""},{"name":"sugar","compliant":false,"warn":false,"info":""},{"name":"sugar alcohols","compliant":false,"warn":false,"info":""},{"name":"sulfur dioxide","compliant":false,"warn":false,"info":""},{"name":"sunflower lecithin","compliant":true,"warn":false,"info":""},{"name":"sweet potatoes","compliant":true,"warn":false,"info":""},{"name":"sweet-n-low","compliant":false,"warn":false,"info":""},{"name":"sweetleaf","compliant":false,"warn":false,"info":""},{"name":"syrup","compliant":false,"warn":false,"info":""},{"name":"threitol","compliant":false,"warn":false,"info":""},{"name":"treacle","compliant":false,"warn":false,"info":""},{"name":"truvia","compliant":false,"warn":false,"info":""},{"name":"vegetables","compliant":true,"warn":false,"info":""},{"name":"wine","compliant":false,"warn":false,"info":""},{"name":"xanthan gum","compliant":true,"warn":false,"info":""},{"name":"xylitol","compliant":false,"warn":false,"info":""},{"name":"zinc gluconate","compliant":true,"warn":false,"info":""},{"name":"zucchini noodles","compliant":true,"warn":false,"info":""}]
+[
+  {
+    "name": "tuna",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "canned tuna",
+    "compliant": true,
+    "warn": true,
+    "info": "Check your labels. Canned tuna often contains soy."
+  },
+  {
+    "name": "absorbic acid (vitamin C)",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "acacia",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "acacia gum",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "acetic acid",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "agave inulin",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "alpha tocopherol (vitamin E)",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "apples",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "bananas",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "beef",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "beta-carotene",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "butternut squash noodles",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "calcium carbonate",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "calcium chloride",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "chicken",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "coffee",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "eggs",
+    "compliant": true,
+    "warn": false,
+    "info": "You may optionally exclude eggs on your Whole30."
+  },
+  {
+    "name": "ferrous gluconate",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "fish",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "fruit",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "gellan gum",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "guar gum",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "inulin",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "lactic acid",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "locust bean gum",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "meat",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "natural flavors",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "naturally occuring sulfites",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "niacin (vitamin B3)",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "pectin (sodium pectinate)",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "pork",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "potassium chloride",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "potato starch",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "riboflavin (vitamin B2)",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "salt (sodium chloride)",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sodium nitrate",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sodium nitrite",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "spaghetti sauce",
+    "compliant": true,
+    "warn": true,
+    "info": "Check your labels for non-compliant additives."
+  },
+  {
+    "name": "spaghetti squash",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sparkling water",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "spinach",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sunflower lecithin",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sweet potatoes",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "vegetables",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "xanthan gum",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "zinc gluconate",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "zucchini noodles",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "silicon dioxide",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sodium phosphate",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sodium erythorbate",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "(evaporated) cane juice",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "(sweet) sorghum",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "acesulfame-K",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "added sugar",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "added sulfites",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "agave nectar",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "alcohol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "arabitol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "artificial sweeteners",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "aspartame",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "beer",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "beet sugar",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "bread",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "brown sugar",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "cane sugar",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "carrageenan",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "coconut nectar",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "coconut sugar",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "confectioner's sugar",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "corn",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "corn starch",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "dairy",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "date sugar",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "date syrup",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "dextrose",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "disaccharide",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "dulcitol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "equal",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "erythritol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "french fries",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "fructose",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "galactose",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "glucose",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "gluten",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "glycerin (glycerol)",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "glycol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "grains",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "high fructose corn syrup",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "honey",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "HSH",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "iditol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "instant ramen",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "isomalt",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "lactitol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "lactose",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "legumes",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "malt syrup",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "maltitol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "maltose",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "mannitol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "maple syrup",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "milk",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "molasses",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "monk fruit extract",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "monosaccharide",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "monosodium glutamate (MSG)",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "noodles",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "nutra-sweet",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "pasta",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "pasta noodles",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "peanuts",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "polyglycitol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "polysaccharide",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "potassium metabisulfite",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "potato chips",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "raw sugar",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "refiner's syrup",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "ribitol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "ribose",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "rice malt (extract)",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "rice syrup",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "saccharin",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "saccharose",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sodium bisulfite",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sorbitol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "soy",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "soy lecithin",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "spaghetti noodles",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "splenda",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "stevia",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sucralose",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sucrose",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sugar",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sugar alcohols",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sulfur dioxide",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sweet-n-low",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sweetleaf",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "syrup",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "threitol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "treacle",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "truvia",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "wine",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "xylitol",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "yeast extract",
+    "compliant": false,
+    "warn": false,
+    "info": null
+  }
+]
