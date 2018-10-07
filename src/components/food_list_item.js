@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import '../styles/food_list_item.scss';
 
 class FoodListItem extends Component {
   constructor(props) {
