@@ -1,5 +1,6 @@
 import React from 'react';
 import FoodListItem from './food_list_item';
+import '../styles/food_list.scss';
 
 const FoodList = props => {
   let foodListItems = props.foods.map(food => {
