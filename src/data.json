@@ -1,17 +1,5 @@
 [
   {
-    "name": "tuna",
-    "compliant": true,
-    "warn": false,
-    "info": null
-  },
-  {
-    "name": "canned tuna",
-    "compliant": true,
-    "warn": true,
-    "info": "Check your labels. Canned tuna often contains soy."
-  },
-  {
     "name": "absorbic acid (vitamin C)",
     "compliant": true,
     "warn": false,
@@ -90,13 +78,31 @@
     "info": null
   },
   {
+    "name": "canola oil",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
     "name": "chicken",
     "compliant": true,
     "warn": false,
     "info": null
   },
   {
+    "name": "citric acid",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
     "name": "coffee",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "dipotassium phosphate",
     "compliant": true,
     "warn": false,
     "info": null
@@ -216,6 +222,18 @@
     "info": null
   },
   {
+    "name": "silicon dioxide",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sodium erythorbate",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
     "name": "sodium nitrate",
     "compliant": true,
     "warn": false,
@@ -223,6 +241,12 @@
   },
   {
     "name": "sodium nitrite",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "sodium phosphate",
     "compliant": true,
     "warn": false,
     "info": null
@@ -252,6 +276,12 @@
     "info": null
   },
   {
+    "name": "spirulina",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
     "name": "sunflower lecithin",
     "compliant": true,
     "warn": false,
@@ -259,6 +289,18 @@
   },
   {
     "name": "sweet potatoes",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "tricalcium phosphate",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "tuna",
     "compliant": true,
     "warn": false,
     "info": null
@@ -283,36 +325,6 @@
   },
   {
     "name": "zucchini noodles",
-    "compliant": true,
-    "warn": false,
-    "info": null
-  },
-  {
-    "name": "silicon dioxide",
-    "compliant": true,
-    "warn": false,
-    "info": null
-  },
-  {
-    "name": "sodium phosphate",
-    "compliant": true,
-    "warn": false,
-    "info": null
-  },
-  {
-    "name": "sodium erythorbate",
-    "compliant": true,
-    "warn": false,
-    "info": null
-  },
-  {
-    "name": "tricalcium phosphate",
-    "compliant": true,
-    "warn": false,
-    "info": null
-  },
-  {
-    "name": "dipotassium phosphate",
     "compliant": true,
     "warn": false,
     "info": null
