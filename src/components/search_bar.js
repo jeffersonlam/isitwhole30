@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { DebounceInput } from 'react-debounce-input';
+import '../styles/search_bar.scss';
 
 class SearchBar extends Component {
   constructor(props) {

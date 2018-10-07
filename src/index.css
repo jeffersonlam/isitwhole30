@@ -42,22 +42,3 @@ body {
 .container {
   /* position: relative; */
 }
-
-.search-bar {
-  position: sticky;
-  top: 0;
-  left: 0;
-  right: 0;
-  padding: 0px 3px;
-}
-
-.search-bar input {
-  line-height: 40px;
-  height: 40px;
-  width: 100%;
-  display: block;
-  border: 2px solid #f0f0f0;
-  border-radius: 4px;
-  font-size: 20px;
-  padding-left: 8px;
-}
