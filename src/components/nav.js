@@ -11,8 +11,8 @@ class Nav extends Component {
           type="checkbox"
         />
         <label
-          class="hamburger-x-icon"
-          for="hamburger-x"
+          className="hamburger-x-icon"
+          htmlFor="hamburger-x"
         >
           <div></div>
           <div></div>
