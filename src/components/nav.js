@@ -20,8 +20,8 @@ class Nav extends Component {
         </label>
         <div className="nav-content">
           <h4>Whole30 Compliance</h4>
-          <p>Disclaimer: This app is not a 100% reliable information source and is not affiliated with the founders of Whole30. Please double check info through the <a href="https://forum.whole30.com/">Whole30 forums</a> or another veritable source.</p>
-          <p>Made by <a href="http://jeffersonlam.com">Jefferson Lam</a>.</p>
+          <p>Disclaimer: This app's contents are incomplete. This app is not affiliated with the official Whole30 brand or organization. Please double check info through the <a href="https://forum.whole30.com/">Whole30 forums</a> or another official source.</p>
+          <p>Made by <a href="http://jeffersonlam.com">Jefferson Lam</a>. View the <a href="https://github.com/jeffersonlam/whole30compliance">Github repo</a>.</p>
         </div>
       </div>
     );

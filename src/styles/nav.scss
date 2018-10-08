@@ -146,7 +146,6 @@ $trns-length: .15s; // for hamburger-x toggle and nav open/close
     transition: opacity .2s;
     text-decoration: none;
 
-    opacity: .9;
     color: #0097A7;
 
     font-weight: 600;
@@ -156,7 +155,7 @@ $trns-length: .15s; // for hamburger-x toggle and nav open/close
     }
 
     &:hover {
-      opacity: 1;
+      box-shadow: 0 -1px 0 #fff inset, 0 -3px 0 #0097A7 inset;
     }
   }
 }
