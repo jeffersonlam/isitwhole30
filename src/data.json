@@ -78,6 +78,12 @@
     "info": null
   },
   {
+    "name": "canned tuna",
+    "compliant": true,
+    "warn": true,
+    "info": "Check labels for non-compliant additives. Canned tuna often contains soy."
+  },
+  {
     "name": "canola oil",
     "compliant": true,
     "warn": false,
@@ -132,6 +138,12 @@
     "info": null
   },
   {
+    "name": "fruit juice",
+    "compliant": true,
+    "warn": true,
+    "info": "As an additive fruit juice is ok, but avoid drinking it as a beverage."
+  },
+  {
     "name": "gellan gum",
     "compliant": true,
     "warn": false,
@@ -139,6 +151,12 @@
   },
   {
     "name": "guar gum",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "horseradish (additive)",
     "compliant": true,
     "warn": false,
     "info": null
@@ -163,6 +181,12 @@
   },
   {
     "name": "meat",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
+    "name": "mustard (additive)",
     "compliant": true,
     "warn": false,
     "info": null
@@ -228,6 +252,12 @@
     "info": null
   },
   {
+    "name": "sodium citrate",
+    "compliant": true,
+    "warn": false,
+    "info": null
+  },
+  {
     "name": "sodium erythorbate",
     "compliant": true,
     "warn": false,
@@ -255,7 +285,7 @@
     "name": "spaghetti sauce",
     "compliant": true,
     "warn": true,
-    "info": "Check your labels for non-compliant additives."
+    "info": "Check label for non-compliant additives."
   },
   {
     "name": "spaghetti squash",
