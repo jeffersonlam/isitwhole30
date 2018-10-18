@@ -1,9 +1,9 @@
 @import 'globals';
 
-.search-bar { 
+.search-bar {
   display: grid;
   align-items: center;
-  padding: 0 3px;
+  padding: 0;
 
   grid-template: 1fr / 2.5rem 1fr;
 
