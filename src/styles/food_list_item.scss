@@ -17,13 +17,15 @@
 }
 
 .tab {
-  padding: 2px 10px 2px 5px;
   display: flex;
   align-items: center;
+
+  padding: 2px 10px 2px 5px;
 }
 
 .expandable .tab:hover {
   cursor: pointer;
+
   opacity: .8;
 }
 
@@ -32,20 +34,23 @@
 }
 
 .tab-icon {
-  color: $color--dark-gray;
   font-size: 14px;
+
+  color: $color--dark-gray;
 }
 
 .expand {
-  border: 1px solid #eee;
+  padding: 10px;
+
+  border: 1px solid $color--off-white;
   border-top: 0;
   border-radius: 0 0 4px 4px;
-  padding: 10px;
 }
 
 .expand p {
-  margin: 0;
   font-size: 1rem;
+
+  margin: 0;
 }
 
 .food-list-item .expand {

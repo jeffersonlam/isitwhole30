@@ -1,12 +1,15 @@
 .Header {
-  padding: 12px;
-  text-align: center;
   position: relative;
+
+  padding: 12px;
+
+  text-align: center;
 
   h1 {
     font-size: 1.5rem;
-    line-height: 1.5rem;
     font-weight: 800;
+    line-height: 1.5rem;
+
     margin: 0;
   }
 }

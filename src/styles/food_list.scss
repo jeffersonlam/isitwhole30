@@ -1,7 +1,10 @@
 .food-list {
-  list-style: none;
-  padding: 3px;
-  margin: 0;
   overflow-y: scroll;
+
+  margin: 0;
+  padding: 3px;
+
+  list-style: none;
+
   -webkit-overflow-scrolling: touch;
 }
