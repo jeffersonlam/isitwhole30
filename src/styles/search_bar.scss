@@ -1,28 +1,18 @@
 @import 'globals';
 
-.search-bar {
-  position: sticky;
-  top: 0;
-  right: 0;
-  left: 0;
-
+.search-bar { 
   display: grid;
   align-items: center;
-
-  height: 40px;
   padding: 0 3px;
 
-  border: 2px solid $color--dark-gray;
-  border-radius: 2rem;
-
-  grid-template: 1fr / 2.25rem 1fr;
+  grid-template: 1fr / 2.5rem 1fr;
 
   .icon {
     font-size: 1.75rem;
 
     z-index: 1;
 
-    margin: 0 .25rem;
+    margin: 0 .5rem;
 
     color: $color--dark-gray;
 
@@ -32,11 +22,10 @@
   input {
     font-size: inherit;
 
-    box-sizing: border-box;
-    height: 100%;
-    padding-left: 2.25rem;
+    height: 40px;
+    padding-left: 2.5rem;
 
-    border: 0;
+    border: 2px solid $color--dark-gray;
     border-radius: 2rem;
     background-color: $color--off-white;
 

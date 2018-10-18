@@ -1,5 +1,5 @@
 .Nav {
-  background-color: blue;
+  z-index: 2;
 }
 
 $hb-base-size: 10px;
@@ -98,7 +98,6 @@ $trns-length: .15s;
 
 .nav-content {
   position: absolute;
-  z-index: 1;
   top: 0;
   right: 0;
   bottom: 0;
