@@ -6,6 +6,8 @@ import FoodList from './food_list';
 import Header from './header';
 import Nav from './nav';
 
+import '../styles/app.scss';
+
 class App extends Component {
   constructor(props) {
     super(props);

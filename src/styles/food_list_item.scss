@@ -1,17 +1,19 @@
+@import 'globals';
+
 .food-list-item {
   margin-top: 1px;
 }
 
 .compliant .tab {
-  background-color: #C8E6C9;
+  background-color: $color--compliant;
 }
 
 .non-compliant .tab {
-  background-color: #FFEBEE;
+  background-color: $color--non-compliant;
 }
 
 .warn .tab {
-  background-color: #FFF9C4;
+  background-color: $color--warn;
 }
 
 .tab {
@@ -30,13 +32,7 @@
 }
 
 .tab-icon {
-  /* font-size: 16px;
-  max-width: 50%;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  color: #aaa; */
-  color: #777;
+  color: $color--dark-gray;
   font-size: 14px;
 }
 
