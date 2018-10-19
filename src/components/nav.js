@@ -28,7 +28,10 @@ class Nav extends Component {
           <blockquote>"Think of it as a short-term nutrition reset, designed to help you put an end to unhealthy cravings and habits, restore a healthy metabolism, heal your digestive tract, and balance your immune system."<br/>- <a href="https://whole30.com/step-one/">Whole30 Website</a></blockquote>
           <h3>Disclaimer</h3>
           <p>This app is not affiliated with the official Whole30 brand or organization. Information content is incomplete; please double check through the <a href="https://forum.whole30.com/">Whole30 forums</a>.</p>
-          <p>Made by <a href="http://jeffersonlam.com">Jefferson Lam</a> • <a href="https://github.com/jeffersonlam/whole30compliance">Github</a> • circa 2018</p>
+
+          <footer>
+            Made by <a href="http://jeffersonlam.com">Jefferson Lam</a> • <a href="https://github.com/jeffersonlam/whole30compliance">Github</a> • circa 2018
+          </footer>
         </div>
       </div>
     );

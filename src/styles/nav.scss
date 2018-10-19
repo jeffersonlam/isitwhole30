@@ -159,6 +159,10 @@ $trns-length: .15s;
     }
   }
 
+  footer {
+    margin-top: 2rem;
+  }
+
   .hamburger-x-input:checked ~ & {
     visibility: visible;
 
