@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,600,800');
+@import 'globals';
 
 * {
   box-sizing: border-box;
@@ -18,7 +19,7 @@ body {
   margin: 0;
   padding: 0;
 
-  background-color: #333;
+  background-color: $color--off-black;
 }
 
 .App {

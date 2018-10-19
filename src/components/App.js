@@ -3,7 +3,6 @@ import DATA from '../data.json';
 
 import SearchBar from './search_bar';
 import FoodList from './food_list';
-import Header from './header';
 import Nav from './nav';
 
 import '../styles/app.scss';
@@ -38,7 +37,6 @@ class App extends Component {
     return (
       <div className="App">
         <Nav />
-        <Header />
         <SearchBar foodSearch={e => this.foodSearch(e)} />
         <FoodList foods={this.state.results} term={this.state.term} />
       </div>
