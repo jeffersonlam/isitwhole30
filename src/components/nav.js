@@ -21,7 +21,8 @@ class Nav extends Component {
         </label>
         <div className="nav-content">
           <h3>About</h3>
-          <p>This app was made by one Whole30er who got frustrated googling additives at the grocery all day. All listed items are manually copied from official Whole30 sources, including the book, website, and forums.</p>
+          <p>Zinc gluconate? Tricalcium phosphate? What is this stuff? Is it Whole30? This app was made by one Whole30er who got frustrated googling obscure additives at the grocery store all day.</p>
+          <p>All listed items are manually copied from official Whole30 sources, including the <a href="https://www.amazon.com/dp/B00QEGI2GS/">book</a>, <a href="https://whole30.com/pdf-downloads/">website resources</a>, and <a href="https://forum.whole30.com/">forums</a>.</p>
           <h3>What is Whole30?</h3>
           <p><a href="https://whole30.com/">Whole30</a> is a 30 day detox where you only eat nutritious whole foods, primarily meat, vegetables, and fruit.</p>
           <blockquote>"Think of it as a short-term nutrition reset, designed to help you put an end to unhealthy cravings and habits, restore a healthy metabolism, heal your digestive tract, and balance your immune system."<br/>- <a href="https://whole30.com/step-one/">Whole30 Website</a></blockquote>
