@@ -6,8 +6,9 @@ const FoodList = props => {
   let foodListItems = props.foods.map(food => {
     return (
       <FoodListItem
-      key={food.name}
-      food={food}
+        key={food.name}
+        food={food}
+        term={props.term}
       />
     );
   });

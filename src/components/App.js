@@ -14,14 +14,24 @@ class App extends Component {
 
     this.state = {
       data: DATA,
-      results: DATA
+      results: DATA,
+      term: ''
     }
   }
 
   foodSearch(term) {
-    const regex = new RegExp(term, 'gi');
+    let regex;
+    const clean = term.replace(/[()]/g, '').toLowerCase();
+
+    try {
+      regex = new RegExp(clean, 'gi');
+    } catch(err) {
+      console.error(err);
+      return;
+    }
+
     const results = this.state.data.filter(food => food.name.match(regex));
-    this.setState({ results });
+    this.setState({ results, term: clean });
   }
 
   render() {
@@ -30,7 +40,7 @@ class App extends Component {
         <Nav />
         <Header />
         <SearchBar foodSearch={e => this.foodSearch(e)} />
-        <FoodList foods={this.state.results} />
+        <FoodList foods={this.state.results} term={this.state.term} />
       </div>
     );
   }
