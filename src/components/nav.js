@@ -5,7 +5,7 @@ class Nav extends Component {
   render() {
     return (
       <div className="Nav">
-        <h1 className="heading">Whole30 Compliance</h1>
+        <h1 className="heading">Is It Whole30?</h1>
         <input
           className="hamburger-x-input"
           id="hamburger-x"
