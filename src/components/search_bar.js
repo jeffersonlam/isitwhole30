@@ -24,7 +24,7 @@ class SearchBar extends Component {
         <div className="search-bar">
           <MdSearch className="icon" />
           <DebounceInput
-            debounceTimeout={70}
+            debounceTimeout={80}
             value={this.state.term}
             placeholder="Enter a food or additive"
             onChange={e => this.onInputChange(e)}
