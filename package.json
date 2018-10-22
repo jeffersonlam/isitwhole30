@@ -26,6 +26,9 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "react-ga": "^2.5.3"
+    "history": "^4.7.2",
+    "query-string": "^6.2.0",
+    "react-ga": "^2.5.3",
+    "react-router-dom": "^4.3.1"
   }
 }
