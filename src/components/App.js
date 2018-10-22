@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import DATA from '../data.json';
 
+import ReactGA from 'react-ga';
+
+
 import SearchBar from './search_bar';
 import FoodList from './food_list';
 import Nav from './nav';
@@ -43,5 +46,8 @@ class App extends Component {
     );
   }
 }
+
+ReactGA.initialize('UA-46392706-3');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 export default App;
